@@ -1,6 +1,6 @@
 Ayo, I'm Azazel-r.
 
-I like Python and Java, I guess. I do random shit and sometimes upload it here.
+I like Python and Java (rarely C++), I guess. I do random shit and sometimes upload it here.
 
 Thats about all.
 
