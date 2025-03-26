@@ -1,4 +1,4 @@
-Ayo, I'm Azazel-r.
+Ayo, I'm Azalea.
 
 I like Python and Java (rarely C++), I guess. I do random shit and sometimes upload it here.
 
@@ -9,8 +9,6 @@ Cya!
 
 How to reach me:
 
-Just message me on Telegram - t.me/Zazel223
-
 Or Discord - Azazel#9670 or azazel_r
 
-Website (unfinished) https://azazel.dev/
+Website (unfinished) https://azalea.garden
