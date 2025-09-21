@@ -1,5 +1,5 @@
 hi :)
 
-Discord - azalea_r
+Discord - azalea.garden
 
 Website - https://azalea.garden
